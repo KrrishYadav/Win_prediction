@@ -1,1 +1,3 @@
 # Win_prediction
+
+Information technology service providers (ITSPs) compete to win high-valued outsourcing contracts by designing and proposing bids to potential clients. The bids are complex in both their technological components and service level agreements. Several factors in addition to price play a critical role in determining whether a deal is won or lost. Our research mission is to discover which factors deals correlate with winning contracts in a competitive setting and build a win prediction model to prioritize scarce sales resources to deals that are likely to be won. By doing so, an ITSP can increase the effectiveness of its sales force and increase its contract win rate.
